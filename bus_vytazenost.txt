@@ -1,0 +1,5 @@
+50
+20 0 Štúrovo nám.
+35 0 Mestský park
+10 20 Dargovská
+40 20 Nemocnica
